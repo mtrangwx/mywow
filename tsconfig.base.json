@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@mywow/libs-picking": ["libs/picking/src/index.ts"],
       "picking/Module": ["apps/picking/src/remote-entry.ts"]
     }
   },

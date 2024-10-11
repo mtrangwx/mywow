@@ -1,0 +1,9 @@
+{
+  "name": "libs-picking",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/picking/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project libs-picking --web",
+  "targets": {}
+}
